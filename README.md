@@ -1,4 +1,7 @@
 # learn-oop-with-csharp
+
+Checkout [Wiki](https://github.com/mechdeveloper/learn-oop-with-csharp/wiki/00-Home)
+
 Object Oriented Programming with C# - Beginner to Advanced
 
 1. Basic elements of a class
